@@ -9,4 +9,4 @@
 <!--END_SECTION:waka-->
 
 
-![Metrics](https://metrics.lecoq.io/Caosbad?template=classic&introduction=1&topics=1&stars=1&lines=1&introduction.title=true&stars.limit=4&topics.mode=starred&topics.sort=activity&topics.limit=15&config.timezone=Asia%2FShanghai&config.display=columns)
+![Metrics](https://github.com/caosbad/CaosBad/blob/master/github-metrics.svg)
