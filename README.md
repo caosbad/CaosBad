@@ -4,17 +4,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2033%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-843%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 10,024 Contributions in the Year 2021
+> 🏆 10,025 Contributions in the Year 2021
  > 
-> 📦 180.8 kB Used in GitHub's Storage 
+> 📦 181.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,13 +49,17 @@ Sunday       43 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSX                      2 hrs 5 mins        ███████████░░░░░░░░░░░░░░   45.77% 
+JavaScript               1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   34.83% 
+YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.29% 
+TypeScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.77% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 33 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +80,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/12/2021
+ Last Updated on 19/12/2021
 <!--END_SECTION:waka-->
 
 
