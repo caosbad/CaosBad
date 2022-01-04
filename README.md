@@ -4,9 +4,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2012%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-843%20Thousand%20lines%20of%20code-blue)
 
@@ -14,7 +12,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 180.3 kB Used in GitHub's Storage 
+> 📦 180.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,17 +49,17 @@ Sunday       36 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               8 hrs 16 mins       ███████████░░░░░░░░░░░░░░   46.57% 
-TypeScript               4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93% 
-Other                    3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
-JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.25% 
-JSX                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07%
+JavaScript               7 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.82% 
+TypeScript               7 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.65% 
+Other                    3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
+JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.09% 
+Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.53%
 
 🔥 Editors: 
-VS Code                  17 hrs 45 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 40 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      17 hrs 45 mins      █████████████████████████   100.0%
+Mac                      21 hrs 40 mins      █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +80,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/01/2022
+ Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
 
 
