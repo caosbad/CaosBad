@@ -4,17 +4,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2040%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-843%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 6 Contributions in the Year 2022
+> 🏆 12 Contributions in the Year 2022
  > 
-> 📦 181.7 kB Used in GitHub's Storage 
+> 📦 180.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,17 +49,17 @@ Sunday       36 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               3 hrs 6 mins        ██████████████░░░░░░░░░░░   59.1% 
-TypeScript               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.22% 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.92% 
-Prolog                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.16%
+JavaScript               4 hrs               ███████████░░░░░░░░░░░░░░   45.79% 
+TypeScript               2 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.37% 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
+Other                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 🔥 Editors: 
-VS Code                  5 hrs 15 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 45 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      5 hrs 15 mins       █████████████████████████   100.0%
+Mac                      8 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +80,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/01/2022
+ Last Updated on 18/01/2022
 <!--END_SECTION:waka-->
 
 
