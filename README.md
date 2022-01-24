@@ -4,17 +4,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-856%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 18 Contributions in the Year 2022
+> 🏆 20 Contributions in the Year 2022
  > 
-> 📦 182.6 kB Used in GitHub's Storage 
+> 📦 183.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,17 +49,17 @@ Sunday       36 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 34 mins      █████████████░░░░░░░░░░░░   53.37% 
-JavaScript               6 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58% 
-Other                    2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
-JSON                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.89% 
-Bash                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06%
+TypeScript               13 hrs 34 mins      ███████████████░░░░░░░░░░   61.11% 
+JavaScript               3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
+Other                    2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.77% 
+Bash                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
 
 🔥 Editors: 
-VS Code                  25 hrs 26 mins      █████████████████████████   100.0%
+VS Code                  22 hrs 12 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      25 hrs 26 mins      █████████████████████████   100.0%
+Mac                      22 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +80,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2022 02:20:10 UTC
+ Last Updated on 24/01/2022 02:15:21 UTC
 <!--END_SECTION:waka-->
 
 
