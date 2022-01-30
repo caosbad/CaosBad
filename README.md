@@ -4,21 +4,19 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-856%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 30 Contributions in the Year 2022
+> 🏆 32 Contributions in the Year 2022
  > 
-> 📦 181.4 kB Used in GitHub's Storage 
+> 📦 181.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 280 Public Repositories 
+> 📜 282 Public Repositories 
  > 
 > 🔑 38 Private Repositories  
  > 
@@ -82,7 +80,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/01/2022 02:17:56 UTC
+ Last Updated on 30/01/2022 03:55:00 UTC
 <!--END_SECTION:waka-->
 
 
