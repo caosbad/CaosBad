@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-856%20Thousand%20lines%20of%20code-blue)
 
@@ -14,7 +14,7 @@
 
 > 🏆 36 Contributions in the Year 2022
  > 
-> 📦 182.3 kB Used in GitHub's Storage 
+> 📦 182.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,7 +54,7 @@ Sunday       36 commits     ██░░░░░░░░░░░░░░░�
 TypeScript               3 hrs 35 mins       ████████████████████░░░░░   82.24% 
 JavaScript               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
 JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
 
 🔥 Editors: 
@@ -82,7 +82,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/02/2022 02:09:28 UTC
+ Last Updated on 05/02/2022 01:53:55 UTC
 <!--END_SECTION:waka-->
 
 
