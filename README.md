@@ -4,21 +4,19 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-856%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 55 Contributions in the Year 2022
+> 🏆 57 Contributions in the Year 2022
  > 
-> 📦 182.2 kB Used in GitHub's Storage 
+> 📦 182.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 285 Public Repositories 
+> 📜 286 Public Repositories 
  > 
 > 🔑 38 Private Repositories  
  > 
@@ -26,8 +24,8 @@
 
 ```text
 🌞 Morning    46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
-🌆 Daytime    129 commits    ██████████░░░░░░░░░░░░░░░   39.69% 
-🌃 Evening    135 commits    ██████████░░░░░░░░░░░░░░░   41.54% 
+🌆 Daytime    128 commits    █████████░░░░░░░░░░░░░░░░   39.38% 
+🌃 Evening    136 commits    ██████████░░░░░░░░░░░░░░░   41.85% 
 🌙 Night      15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.62%
 
 ```
@@ -37,8 +35,8 @@
 Monday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
 Tuesday      75 commits     █████░░░░░░░░░░░░░░░░░░░░   23.08% 
 Wednesday    32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
-Thursday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.38% 
-Friday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
+Thursday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
+Friday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
 Saturday     45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
 Sunday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.08%
 
@@ -82,7 +80,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/02/2022 02:16:20 UTC
+ Last Updated on 12/02/2022 02:13:08 UTC
 <!--END_SECTION:waka-->
 
 
