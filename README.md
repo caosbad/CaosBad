@@ -4,6 +4,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-849%20Thousand%20lines%20of%20code-blue)
@@ -80,7 +82,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/04/2022 02:43:12 UTC
+ Last Updated on 06/04/2022 02:48:08 UTC
 <!--END_SECTION:waka-->
 
 
