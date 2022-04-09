@@ -4,7 +4,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -12,13 +12,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 185 Contributions in the Year 2022
+> 🏆 186 Contributions in the Year 2022
  > 
-> 📦 191.0 kB Used in GitHub's Storage 
+> 📦 191.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 306 Public Repositories 
+> 📜 307 Public Repositories 
  > 
 > 🔑 39 Private Repositories  
  > 
@@ -51,17 +51,17 @@ Sunday       19 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               5 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.77% 
-TypeScript               4 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   34.94% 
-Other                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
+JavaScript               5 hrs 25 mins       ████████████░░░░░░░░░░░░░   48.33% 
+TypeScript               3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   34.67% 
+Other                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
 
 🔥 Editors: 
-VS Code                  13 hrs              █████████████████████████   100.0%
+VS Code                  11 hrs 12 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      13 hrs              █████████████████████████   100.0%
+Mac                      11 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +82,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/04/2022 03:06:30 UTC
+ Last Updated on 09/04/2022 02:47:12 UTC
 <!--END_SECTION:waka-->
 
 
