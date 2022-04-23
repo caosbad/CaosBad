@@ -4,8 +4,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-852%20Thousand%20lines%20of%20code-blue)
@@ -14,7 +12,7 @@
 
 > 🏆 202 Contributions in the Year 2022
  > 
-> 📦 184.7 kB Used in GitHub's Storage 
+> 📦 185.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,17 +49,17 @@ Sunday       21 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 32 mins      ██████████████████████░░░   88.85% 
-TypeScript               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.33% 
+Other                    13 hrs 32 mins      ██████████████████████░░░   89.84% 
+TypeScript               1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
 Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
 🔥 Editors: 
-VS Code                  15 hrs 14 mins      █████████████████████████   100.0%
+VS Code                  15 hrs 4 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      15 hrs 14 mins      █████████████████████████   100.0%
+Mac                      15 hrs 4 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +80,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/04/2022 03:38:05 UTC
+ Last Updated on 23/04/2022 02:46:04 UTC
 <!--END_SECTION:waka-->
 
 
