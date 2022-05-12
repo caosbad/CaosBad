@@ -4,21 +4,21 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-852%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 212 Contributions in the Year 2022
+> 🏆 213 Contributions in the Year 2022
  > 
-> 📦 183.4 kB Used in GitHub's Storage 
+> 📦 183.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 309 Public Repositories 
+> 📜 310 Public Repositories 
  > 
 > 🔑 39 Private Repositories  
  > 
@@ -51,17 +51,17 @@ Sunday       21 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               4 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   38.42% 
-Other                    4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.61% 
-TypeScript               2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
-Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
+JavaScript               4 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   38.53% 
+Other                    4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.34% 
+TypeScript               2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
+Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.14% 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
 
 🔥 Editors: 
-VS Code                  12 hrs 51 mins      █████████████████████████   100.0%
+VS Code                  12 hrs 58 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      12 hrs 51 mins      █████████████████████████   100.0%
+Mac                      12 hrs 58 mins      █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +82,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 03:15:21 UTC
+ Last Updated on 12/05/2022 03:01:12 UTC
 <!--END_SECTION:waka-->
 
 
