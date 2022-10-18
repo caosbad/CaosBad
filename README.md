@@ -4,6 +4,7 @@
 
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
@@ -79,7 +80,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
+![Chart](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
 
 
  Last Updated on 22/05/2022 03:00:32 UTC
