@@ -4,21 +4,21 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-963%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-933%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 499 Contributions in the Year 2022
+> 🏆 500 Contributions in the Year 2022
  > 
-> 📦 199.9 kB Used in GitHub's Storage 
+> 📦 313.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 353 Public Repositories 
+> 📜 354 Public Repositories 
  > 
 > 🔑 44 Private Repositories  
  > 
@@ -51,7 +51,7 @@ Sunday       24 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
@@ -61,7 +61,7 @@ VS Code                  2 hrs 12 mins       ███████████�
 JavaScript               24 repos            ███████░░░░░░░░░░░░░░░░░░   29.63% 
 TypeScript               24 repos            ███████░░░░░░░░░░░░░░░░░░   29.63% 
 Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.64% 
-Vue                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
+Go                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
 CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94%
 
 ```
@@ -72,7 +72,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/caosbad/caosbad/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/10/2022 03:34:32 UTC
+ Last Updated on 28/10/2022 03:33:01 UTC
 <!--END_SECTION:waka-->
 
 
